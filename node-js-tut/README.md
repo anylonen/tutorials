@@ -1,5 +1,5 @@
-Install npm to Ubuntu 13.10
-===========================
+Install node.js to Ubuntu 13.10
+===============================
 
 Install from Chris Lea's repository
 -----------------------------------
